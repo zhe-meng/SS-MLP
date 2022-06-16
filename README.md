@@ -4,8 +4,8 @@
 
 PyTorch implementation of SS-MLP: A Novel Spectral-Spatial MLP Architecture for Hyperspectral Image Classification.
 
-![image](fig/dynamic_kernel_generation.png)
-
+![1](fig/1.png)
+![2](fig/2.png)
 # Basic Usage
 
 ```
