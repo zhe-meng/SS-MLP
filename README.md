@@ -9,12 +9,15 @@ PyTorch implementation of SS-MLP: A Novel Spectral-Spatial MLP Architecture for 
 # Basic Usage
 
 ```
+import torch
+from SSMLP import SSMLP
+
 model = SSMLP(num_classes=16, channels=200, patchsize=11)
 model.eval()
 print(model)
 input = torch.randn(100, 200, 11, 11)
 y = model(input)
-print(y.size())
+print(y.size())  # (100, 16)
 ```
 
 # Paper
