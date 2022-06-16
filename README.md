@@ -38,4 +38,4 @@ Please cite our paper if you find it useful for your research.
 
 # Acknowledgment
 
-This code is partly borrowed from [Involution](https://github.com/d-li14/involution)
+This code is partly borrowed from [mlp-mixer-pytorch](https://github.com/lucidrains/mlp-mixer-pytorch).
