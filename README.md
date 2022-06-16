@@ -35,7 +35,10 @@ Please cite our paper if you find it useful for your research.
   publisher={MDPI}
 }
 ```
+# Reference Paper
 
-# Acknowledgment
+* MLP-Mixer: An all-MLP Architecture for Vision https://arxiv.org/abs/2105.01601
 
-This code is partly borrowed from [mlp-mixer-pytorch](https://github.com/lucidrains/mlp-mixer-pytorch).
+# Reference Code
+
+* mlp-mixer-pytorch https://github.com/lucidrains/mlp-mixer-pytorch
